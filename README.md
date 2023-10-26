@@ -1,9 +1,4 @@
 # rec_my_repo
+gitの練習
 
-## aaaaa
-
-[ ] aaaa
-[ ] aaaaa 
-
-### hogehoge
-#### hoge
+(*￣▽￣)ﾌﾌﾌｯ♪
